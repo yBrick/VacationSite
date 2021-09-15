@@ -1,0 +1,46 @@
+.text{
+  font-size: 20px;
+  font-family: Font;
+  color: white;
+  text-align: center;
+}
+
+#centerCol{
+  border-right: 3px solid black;
+  border-left: 3px solid black;
+  border-color: white;
+  height: 100%;
+}
+.photo{
+  height: 200px;
+  width: 300px;
+
+}
+a{
+
+  color: black;
+  text-decoration: underline;
+}
+
+body{
+  background-image: url('ice.jpg');
+ background-repeat:round;
+}
+ul{
+  color: white;
+  list-style: none;
+}
+h1{
+  background-color: black;
+  border-top: 10px solid black;
+  border-bottom: 10px solid black;
+}
+@font-face {
+  font-family: Font;
+  src: url(NotoSans-Regular.ttf);
+
+}
+hr{
+
+border-top: 3px solid white;
+}
